@@ -1,1 +1,1 @@
-# developer-test
+# A resource file for Forviz Developer Test
